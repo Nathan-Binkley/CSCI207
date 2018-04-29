@@ -1,0 +1,1 @@
+reads data from a file, and outputs (to the screen) the first word following each of the first three commas in the file. For example, if the file contains the text of this problem, then the program would outputs
